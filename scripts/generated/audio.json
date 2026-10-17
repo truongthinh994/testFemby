@@ -1,0 +1,162 @@
+[
+  {
+    "file": "office-01.wav",
+    "text": "negotiate. We need to negotiate the contract."
+  },
+  {
+    "file": "office-02.wav",
+    "text": "contract. Please sign the contract today."
+  },
+  {
+    "file": "office-03.wav",
+    "text": "colleague. My colleague works in sales."
+  },
+  {
+    "file": "office-04.wav",
+    "text": "agenda. The agenda includes three topics."
+  },
+  {
+    "file": "office-05.wav",
+    "text": "deadline. The deadline is Friday."
+  },
+  {
+    "file": "office-06.wav",
+    "text": "meeting. The meeting starts at nine."
+  },
+  {
+    "file": "office-07.wav",
+    "text": "report. I sent the monthly report."
+  },
+  {
+    "file": "office-08.wav",
+    "text": "approve. The director will approve the plan."
+  },
+  {
+    "file": "office-09.wav",
+    "text": "schedule. Check the schedule before lunch."
+  },
+  {
+    "file": "office-10.wav",
+    "text": "department. Our department is on the third floor."
+  },
+  {
+    "file": "travel-01.wav",
+    "text": "itinerary. Your itinerary includes two cities."
+  },
+  {
+    "file": "travel-02.wav",
+    "text": "departure. Departure is at six."
+  },
+  {
+    "file": "travel-03.wav",
+    "text": "arrival. We expect your arrival tomorrow."
+  },
+  {
+    "file": "travel-04.wav",
+    "text": "reservation. I have a hotel reservation."
+  },
+  {
+    "file": "travel-05.wav",
+    "text": "luggage. Keep your luggage with you."
+  },
+  {
+    "file": "travel-06.wav",
+    "text": "platform. The train leaves from platform two."
+  },
+  {
+    "file": "travel-07.wav",
+    "text": "destination. Our destination is London."
+  },
+  {
+    "file": "travel-08.wav",
+    "text": "fare. The bus fare is two dollars."
+  },
+  {
+    "file": "travel-09.wav",
+    "text": "delay. There is a short delay."
+  },
+  {
+    "file": "travel-10.wav",
+    "text": "boarding. Boarding begins in ten minutes."
+  },
+  {
+    "file": "finance-01.wav",
+    "text": "revenue. Revenue increased this year."
+  },
+  {
+    "file": "finance-02.wav",
+    "text": "budget. The budget covers new equipment."
+  },
+  {
+    "file": "finance-03.wav",
+    "text": "invoice. Please pay the invoice by Monday."
+  },
+  {
+    "file": "finance-04.wav",
+    "text": "expense. Travel is our largest expense."
+  },
+  {
+    "file": "finance-05.wav",
+    "text": "profit. The company earned a profit."
+  },
+  {
+    "file": "finance-06.wav",
+    "text": "deposit. A deposit is required."
+  },
+  {
+    "file": "finance-07.wav",
+    "text": "balance. Check your account balance."
+  },
+  {
+    "file": "finance-08.wav",
+    "text": "refund. You will receive a full refund."
+  },
+  {
+    "file": "finance-09.wav",
+    "text": "payment. Payment is due next week."
+  },
+  {
+    "file": "finance-10.wav",
+    "text": "interest. This account earns interest."
+  },
+  {
+    "file": "group-01.wav",
+    "text": "Please send the sales report before three this afternoon. The manager needs it for a meeting at four."
+  },
+  {
+    "file": "group-02.wav",
+    "text": "Attention passengers. The train to Oxford will leave from platform six instead of platform two."
+  },
+  {
+    "file": "group-03.wav",
+    "text": "Our office will be closed on Monday for maintenance. Employees should work from home that day."
+  },
+  {
+    "file": "group-04.wav",
+    "text": "Hello, this is Green Hotel. Your room is ready. You may check in any time after two o clock."
+  },
+  {
+    "file": "group-05.wav",
+    "text": "The new printer is near the reception desk. If you need help using it, ask Daniel in the IT department."
+  },
+  {
+    "file": "group-06.wav",
+    "text": "The workshop begins at nine thirty. Please arrive fifteen minutes early to collect your name badge."
+  },
+  {
+    "file": "group-07.wav",
+    "text": "We have sold all the blue chairs, but the gray model is still available. Delivery takes three working days."
+  },
+  {
+    "file": "group-08.wav",
+    "text": "Thank you for calling City Bank. Our branch is open until five on weekdays and until noon on Saturdays."
+  },
+  {
+    "file": "group-09.wav",
+    "text": "Your order arrived with one damaged item. We can replace it free of charge. Please keep the original packaging."
+  },
+  {
+    "file": "group-10.wav",
+    "text": "The team lunch has been moved to Thursday because our client will visit on Wednesday. We will meet at the cafe downstairs."
+  }
+]
